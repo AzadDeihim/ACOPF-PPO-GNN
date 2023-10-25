@@ -23,3 +23,4 @@ We do not train the deep reinforcement learning agent to produce a solution to A
 
 The following Figure outlines the training algorithm: 
 
+![ACOPF Flowchart (2)-1](https://github.com/AzadDeihim/ACOPF-PPO-GNN/assets/32167624/e559d729-1015-4aec-ac00-95cae4c04b05)
